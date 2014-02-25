@@ -1,0 +1,14 @@
+{
+  "name": "sbks_tags_api-leve-3-to-hidden",
+  "version": "0.0.0",
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README",
+  "dependencies": {
+    "superagent": "*",
+    "sleep": "*",
+    "express": "*",
+    "jayson": "*"
+  }
+}
