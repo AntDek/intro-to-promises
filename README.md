@@ -1,4 +1,4 @@
 intro-to-promises
 =================
 
-Examples for The Introduction To Promises presentation
+This code was used in presentation of Promise patterns
