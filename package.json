@@ -1,10 +1,9 @@
 {
-  "name": "sbks_tags_api-leve-3-to-hidden",
+  "name": "intro-to-promises",
   "version": "0.0.0",
-  "repository": "",
-  "author": "",
+  "author": "Anton Dekterov",
   "license": "BSD",
-  "readmeFilename": "README",
+  "readmeFilename": "README.md",
   "dependencies": {
     "superagent": "*",
     "sleep": "*",
